@@ -1,6 +1,6 @@
 # create-train-val-set-tool
 
-## description
+## 描述
 将一个以pytorch ImageFolder格式存储的样本集划分为训练集和验证集。
 对于每个类别，选择第一张图像作为验证集，其余的作为训练集。
 
